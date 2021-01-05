@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # -*- coding:utf-8 _*-
-# Copyright (c) 2021 - zihao.chen <chenzihao@mokahr.com> 
+# Copyright (c) 2021 - zihao.chen
 '''
 @Author : zihao.chen
 @File : caml_curvature.py 
